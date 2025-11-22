@@ -1,0 +1,1 @@
+## No atual momento o site do Sketchfab está dando erro 504, assim que possível vou atualizar com os créditos do artista
