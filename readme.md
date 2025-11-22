@@ -1,1 +1,1 @@
-## No atual momento o site do Sketchfab está dando erro 504, assim que possível vou atualizar com os créditos do artista
+## O SKETCHFAB está com erro para entrar no site e verificar os modelos 3D, por isso atualizarei mais tarde com os creditos ao artista
